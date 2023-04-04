@@ -15,7 +15,7 @@ In this document, we will outline the user requirements for the news mobile app 
 The user requirements document will cover various aspects of the app, such as the user interface, news categories, personalization and search functionality. Each requirement will be specific, measurable and achievable and will focus on what the user wants to achieve with the app.
 By defining and prioritizing these user requirements, our team will have a clear understanding of the app's scope and will be able to build an app that meets the needs of its target audience. Regular review and refinement of the user requirements will help ensure that the app remains relevant and useful to its users. Overall, the user requirements document is a critical component of the development process, as it provides a clear roadmap for building a successful news mobile app.
 
-Program Requirements
+Program Requirements;
 To meet the user requirements, the development team will need to implement several program requirements. Here are some of the key program requirements that the team would consider:
 •	Cross-platform compatibility: The app should be designed to work on different mobile operating systems, such as Android and iOS, to reach a broader audience.
 •	Responsive design: The app's user interface should be designed to adapt to different screen sizes and orientations, ensuring a consistent and user-friendly experience across different devices.
@@ -23,12 +23,12 @@ To meet the user requirements, the development team will need to implement sever
 •	Personalization features: The app should offer features that allow users to personalize their news feeds based on their interests and location.
 •	Search functionality: The app should provide users with an easy-to-use search feature that allows them to find news articles on specific topics or from specific sources.
 
-Data Requirements
+Data Requirements;
 These requirements relate to the type of data that the app needs to function correctly and provide value to users. Some of the key data requirements that our team would consider:
 •	News articles: The app needs access to a reliable source of up-to-date news articles from reputable sources.
 •	User data: The app should collect user data such as location, interests, and reading history to personalize the news feed and provide relevant content.
 
-Life Cycle Requirements
+Life Cycle Requirements;
 These requirements relate to the ongoing maintenance and support of the app throughout its life cycle. Here are some of the key life cycle requirements that our team would consider:
 •	Testing and Quality Assurance: The app should be thoroughly tested throughout the development process to ensure that it functions as expected and meets the user requirements outlined in the user requirements document. Testing should continue after release, and updates should be released to address any issues found.
 •	Maintenance and Support: The app should be maintained and supported throughout its life cycle to ensure that it remains up-to-date and continues to function correctly on new mobile devices and operating system updates. This includes bug fixes, security updates, and feature enhancements.
