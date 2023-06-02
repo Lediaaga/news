@@ -1,0 +1,35 @@
+NewsApp
+Welcome to NewsApp! This is the README file for the NewsApp website. The project is built using PHP
+and is designed to be run locally using XAMPP.
+
+Description
+NewsApp is a PHP-based website that allows users to read and discover news articles from various
+sources. It utilizes PHP as the server-side scripting language to provide dynamic content and interact
+with the database.
+
+Installation
+To run the NewsApp website locally on your machine, follow these steps:
+
+1. Make sure you have XAMPP installed on your computer. If you don&#39;t have it yet, you can
+download it from the XAMPP website.
+2. Download the project repository to your local machine.
+3. Locate the XAMPP installation directory and navigate to the htdocs folder.
+4. Copy all the files and folders from the project repository and paste them into the htdocs folder.
+5. Put all the saved images in a folder named ‘img’.
+6. Open XAMPP and start the Apache and MySQL services.
+7. Launch a web browser and enter http://localhost/newsapp in the address
+bar.
+
+Configuration
+If the NewsApp website requires any configuration, such as a database connection or API keys, follow
+these steps:
+
+1. Open the project folder located in the htdocs directory of XAMPP.
+2. Look for a configuration file and open it in a text editor.
+3. Modify the necessary variables or settings according to your local environment. For example, if
+you are using a database, update the database connection details.
+4. Save the file.
+
+Usage
+Once the NewsApp website is up and running, you can access it by visiting http://localhost/newsapp/ (the according file names) in
+your web browser.
