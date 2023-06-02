@@ -9,13 +9,10 @@ include ("lajme_form.php");
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>adminlogin</title>
 
-   <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 
-   <!-- font awesome cdn link  -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-   <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
 
 </head>
@@ -71,9 +68,38 @@ if(isset($_POST['loginbtn']))
              echo"<script>alert('Password i pasakte!');</script>";
         }
        
-
     }
 }
+/*$connection = mysqli_connect("localhost", "root", "", "lajme_db");
+
+if (isset($_POST['loginbtn'])) {
+    $uname = mysqli_real_escape_string($connection, $_POST['name']);
+    $password = mysqli_real_escape_string($connection, $_POST['password']);
+
+    if ($uname != "" && $password != "") {
+        // Use prepared statements for enhanced security
+        $sql_query = "SELECT COUNT(*) AS cntUser FROM users WHERE username=? AND password=?";
+        $stmt = mysqli_prepare($connection, $sql_query);
+        mysqli_stmt_bind_param($stmt, "ss", $uname, md5($password));
+        mysqli_stmt_execute($stmt);
+        mysqli_stmt_bind_result($stmt, $count);
+        mysqli_stmt_fetch($stmt);
+        mysqli_stmt_close($stmt);
+
+        if ($count > 0) {
+            $_SESSION['AdminLoginId'] = $_POST['name'];
+            header('Location: adminpanel.php');
+            exit;
+        } else {
+            echo "<script>alert('Password i pasakte!');</script>";
+        }
+    }
+}
+
+// Close the database connection
+mysqli_close($connection);*/
+
+
 
 ?>
 </body>
