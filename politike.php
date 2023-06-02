@@ -6,19 +6,18 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>politike</title>
 
-   <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 
-   <!-- font awesome cdn link  -->
+  
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-   <!-- custom css file link  -->
+   
    <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
    
-<!-- header section starts  -->
+
 
 <section class="header">
 
@@ -34,13 +33,12 @@
 
 </section>
 
-<!-- header section ends -->
 
 <div class="heading" style="background:url(img/kuvendi.jpg) no-repeat">
    <h1>politike</h1>
 </div>
 
-<!-- packages section starts  -->
+
 
 <section class="packages">
 
@@ -123,24 +121,7 @@
 
 </section>
 
-<!-- packages section ends -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- footer section starts  -->
 
 <section class="footer">
 
@@ -175,20 +156,10 @@
 <div class="credit"> created by <span>Epoka University</span> | all rights reserved! </div>
 
 </section>
-<!-- footer section ends -->
 
 
-
-
-
-
-
-
-
-<!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
-<!-- custom js file link  -->
 <script src="js/script.js"></script>
 
 </body>
