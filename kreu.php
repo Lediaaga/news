@@ -80,26 +80,6 @@ include ("lajme_form.php");
 </section>
 
 
-<section class="home-about">
-<div class="content">
-   <h3>aktualitet</h3>
-<?php 
-   $request = "select * from lajme_form order by data desc";
-   $resLajme = mysqli_query($connection, $request);
-      
-   while ($lajm = $resLajme->fetch_assoc()) {
-      
-      echo "<div class='image'></div>
-
-         <p>".$lajm["Lajmi"]. "</p>
-         <a href='aktualitet.php' class='btn'>Me shume aktualitet</a>";
-   }
-   
-   ?>
-   </div>
-   </section>
-
-
 
 <section class="home-packages">
 
