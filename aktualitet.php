@@ -6,19 +6,18 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>aktualitet</title>
 
-   <!-- swiper css link  -->
+   
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 
-   <!-- font awesome cdn link  -->
+  
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-   <!-- custom css file link  -->
+   
    <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
    
-<!-- header section starts  -->
 
 <section class="header">
 
@@ -36,13 +35,13 @@
 
 </section>
 
-<!-- header section ends -->
+
 
 <div class="heading" style="background:url(img/aktualitet.jpg) no-repeat">
    <h1>aktualitet</h1>
 </div>
 
-<!-- about section starts  -->
+
 
 <section class="about">
 
@@ -58,9 +57,7 @@
 
 </section>
 
-<!-- about section ends -->
 
-<!-- reviews section starts  -->
 
 <section class="reviews">
 
@@ -72,9 +69,7 @@
 
          <div class="swiper-slide slide">
             
-            <p>Besëlidhjen e dytë të lezhjanëve me PS farkëtuar në zgjedhjet e 14 Majit, për të pasur përsëri, kryetar bashkie Pjerin Ndreun, krye-socialisti Edi Rama e shikon si një përgjegjësi për t’i shërbyer njësoj si socialistëve dhe demokratëve.Shumë faleminderit për gjithë këtë mikpritje! Më vjen shumë mirë që jam këtu sot për t’ju falënderuar drejtpërdrejtë të gjithëve, ju që jeni këtu në radhë të parë se ju jeni si të thuash zemra e gjithë kësaj përpjekjeje dhe e gjithë këtij rezultati të jashtëzakonshëm qoftë në bashkinë e Lezhës, qoftë në bashkinë e Kurbinit, por përveç jush edhe të gjithë ata që s’janë këtu që morën pjesë në këtë përpjekje apo që iu bashkuan si përpjekje në fund, duke i dhënë votën Pjerinit dhe Majlindës.
-
-Pjerini i rreshtoi të gjitha me shumë pasion. La pa thënë si ishte puna e atij atentatit që i bëri bashkë me Ulsiun Salvatorit se çdo gjë e kisha imagjinuar, por që këta të dy do tentonin të hiqnin qafe Salvatorin në autostradë, këtë se kisha parë as në ëndrrën më kurajoze.</p>
+            <p>Besëlidhjen e dytë të lezhjanëve me PS farkëtuar në zgjedhjet e 14 Majit, për të pasur përsëri, kryetar bashkie Pjerin Ndreun, krye-socialisti Edi Rama e shikon si një përgjegjësi për t’i shërbyer njësoj si socialistëve dhe demokratëve.Shumë faleminderit për gjithë këtë mikpritje! Më vjen shumë mirë që jam këtu sot për t’ju falënderuar drejtpërdrejtë të gjithëve, ju që jeni këtu në radhë të parë se ju jeni si të thuash zemra e gjithë kësaj përpjekjeje dhe e gjithë këtij rezultati të jashtëzakonshëm qoftë në bashkinë e Lezhës, qoftë në bashkinë e Kurbinit, por përveç jush edhe të gjithë ata që s’janë këtu që morën pjesë në këtë përpjekje apo që iu bashkuan si përpjekje në fund, duke i dhënë votën Pjerinit dhe Majlindës.Pjerini i rreshtoi të gjitha me shumë pasion. La pa thënë si ishte puna e atij atentatit që i bëri bashkë me Ulsiun Salvatorit se çdo gjë e kisha imagjinuar, por që këta të dy do tentonin të hiqnin qafe Salvatorin në autostradë, këtë se kisha parë as në ëndrrën më kurajoze.</p>
             <h3>Edi Rama</h3>
             <span>Kryeminister i Shqiperise</span>
             <img src="img/edi_rama.png" alt="">
@@ -87,23 +82,6 @@ Pjerini i rreshtoi të gjitha me shumë pasion. La pa thënë si ishte puna e at
 
 </section>
 
-<!-- reviews section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- footer section starts  -->
 
 
 <section class="footer">
@@ -139,20 +117,11 @@ Pjerini i rreshtoi të gjitha me shumë pasion. La pa thënë si ishte puna e at
 <div class="credit"> created by <span>Epoka University</span> | all rights reserved! </div>
 
 </section>
-<!-- footer section ends -->
+   
 
-
-
-
-
-
-
-
-
-<!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
-<!-- custom js file link  -->
+
 <script src="js/script.js"></script>
 
 </body>
